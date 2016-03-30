@@ -59,8 +59,8 @@
  </reporting>
  
  	<scm>
-		<connection>scm:svn:svn://IPSERVEUR/repository1/monappli-web</connection>
- 		<url>http://IPSERVEUR/svn/monappli-web</url>
+		<connection>scm:git:git://github.com/jbrulez/tp1maven.git</connection>
+		<url>https://github.com/jbrulez/tp1maven</url>
 	</scm>
  
  
